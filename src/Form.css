@@ -1,0 +1,55 @@
+.txt {
+    background-color: rgba(91, 165, 85, 0.959);
+    padding-left: 5%;
+    padding-right: 5%;
+    border-radius: 10px;
+}
+
+.parg {
+    margin-left: 5%;
+}
+
+.topic {
+    margin-left: 4%;
+    margin-right: 4%;
+    margin-bottom: 50px;
+}
+
+.form {
+    width: 80%;
+    margin-left: 10%;
+}
+
+.name {
+    margin-left: 35%;
+    margin-top: -35px;
+}
+
+.happy {
+    margin-left: 30%;
+    margin-top: -35px;
+}
+
+.santabtn{
+    background-color: rgb(67, 152, 223);
+    border-color: rgb(108, 154, 192);
+    color: rgb(255, 255, 255);
+    font-size: large;
+    height: 50px;
+    border-radius: 10px;
+    margin-left: 80%;
+    width: 150px;
+    box-shadow:1px 2px rgb(89, 92, 95) ;
+}
+
+.santabtn:hover {
+    background-color: rgb(17, 116, 197);
+}
+
+.popbtn{
+    margin-left: 40px;
+    background-color: rgb(255, 0, 51);
+    color: rgb(255, 255, 255);
+    font-size: larger;
+    border-radius: 10%;
+}
